@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @koustubh28
-- 👀 I’m interested in e-Learning and Web Development
-- 🌱 I’m currently Co-founder of SMCP Ed. , were I use authoring tools to develop SCORM based courses
+- 👀 I’m interested in Analytics
+- 🌱 I’m currently pursuing master's in Business Analytics at Hofstra, NY
 - 📫 Reach me at kmbodh28@gmail.com
 
 <!---
