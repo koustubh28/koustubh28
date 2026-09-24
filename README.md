@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @koustubh28
-- 👀 I’m interested in Analytics
-- 🌱 I’m currently pursuing master's in Business Analytics at Hofstra, NY
-- 📫 Reach me at kmbodh28@gmail.com
+# Hi, I'm Koustubh 👋
 
-<!---
-koustubh28/koustubh28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Data Analyst | Business Analytics | Healthcare & Research Analytics
+
+Business Analytics graduate with a background in Computer Science, web development, and digital marketing.
+
+* 📊 Interested in **Data Analytics, Healthcare Analytics & Research**
+* 🛠️ Skills: **Python, SQL, R, Excel, Power BI, Tableau**
+* 🏥 Currently exploring **healthcare and public-health data**
+* 🤖 Learning **Machine Learning & AI for Analytics**
+* 🚀 Building practical projects to solve real-world problems
+
+### Featured Areas
+
+`Data Analytics` `SQL` `Python` `Statistics` `Healthcare Analytics` `Data Visualization`
+
+📫 Open to connecting with people working in analytics, healthcare, research, and data.
+
